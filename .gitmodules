@@ -1,0 +1,6 @@
+[submodule "source-code/MidiPortal"]
+	path = source-code/MidiPortal
+	url = https://github.com/styyle14/MidiPortal.git
+[submodule "source-code/dependencies/cabl"]
+	path = source-code/dependencies/cabl
+	url = https://github.com/shaduzlabs/cabl.git
